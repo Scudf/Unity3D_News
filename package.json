@@ -1,0 +1,14 @@
+{
+    "name": "workspace",
+    "version": "1.0.0",
+    "devDependencies": {
+        "tslint": "5.7.0",
+        "typescript": "^2.5.3"
+    },
+    "dependencies": {
+        "@types/google-apps-script": "^0.0.62"
+    },
+    "scripts": {
+        "build": "tsc"
+    }
+}

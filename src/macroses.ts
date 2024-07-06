@@ -1,0 +1,5 @@
+/** @OnlyCurrentDoc */
+
+function updateTable(): void {
+	
+}

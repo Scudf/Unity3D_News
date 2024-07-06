@@ -1,0 +1,21 @@
+{
+    "compilerOptions": {
+        "target": "ES5",
+        "downlevelIteration": true,
+        "lib": [
+            "es2015",
+            "dom"
+        ],
+        "types": [
+            "google-apps-script"
+        ],
+        "module": "commonjs",
+        "outDir": "dist"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
